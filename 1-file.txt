@@ -1,1 +1,2 @@
 Birinchi o'zgarish
+Git uchun maxsus  pull buyrug'idan foydalanish 
