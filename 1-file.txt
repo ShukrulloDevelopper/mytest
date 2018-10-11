@@ -1,2 +1,3 @@
 Birinchi o'zgarish
 Git uchun maxsus  pull buyrug'idan foydalanish 
+Git fetch buyrug'i uchun  o'zgarishlar 
